@@ -7,17 +7,17 @@ var reward,foodImg,jewelImg,treasureImg;
 var bg1,bg2,bg3,bg,invisibleground;
 
 function preload(){
-    runner_Img=loadAnimation("images/img1.png","images/img2.png","images/img3.png",
-                 "images/img4.png","images/img5.png","images/img6.png");
-    obstacleImg1=loadImage("images/ufo.png");
-    obstacleImg2=loadImage("images/alien.png");
-   foodImg=loadImage("images/fruit.png");
-    jewelImg=loadImage("images/ruby.png");
-    treasureImg=loadImage("images/jewel.png");
-    bg1=loadImage("images/moon run.png");
-    bg2=loadImage("images/bg2.png");
-    bg3=loadImage("images/bg3.png");
-    bg=loadImage("images/Good.png")
+    runner_Img=loadAnimation("img1.png","img2.png","img3.png",
+                 "img4.png","img5.png","img6.png");
+    obstacleImg1=loadImage("ufo.png");
+    obstacleImg2=loadImage("alien.png");
+   foodImg=loadImage("fruit.png");
+    jewelImg=loadImage("ruby.png");
+    treasureImg=loadImage("jewel.png");
+    bg1=loadImage("moon run.png");
+    bg2=loadImage("bg2.png");
+    bg3=loadImage("bg3.png");
+    bg=loadImage("Good.png")
 }
 function setup(){
     
