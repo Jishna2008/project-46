@@ -15,8 +15,8 @@ function preload(){
     jewelImg=loadImage("ruby.png");
     treasureImg=loadImage("jewel.png");
     bg1=loadImage("moon run.png");
-    bg2=loadImage("bg2.png");
-    bg3=loadImage("bg3.png");
+    bg2=loadImage("bg2.PNG");
+    bg3=loadImage("bg3.PNG");
     bg=loadImage("Good.png")
 }
 function setup(){
