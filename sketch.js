@@ -14,7 +14,7 @@ function preload(){
    foodImg=loadImage("fruit.png");
     jewelImg=loadImage("ruby.png");
     treasureImg=loadImage("jewel.png");
-    bg1=loadImage("moon run.png");
+    bg1=loadImage("moon run.PNG");
     bg2=loadImage("bg2.PNG");
     bg3=loadImage("bg3.PNG");
     bg=loadImage("Good.png")
